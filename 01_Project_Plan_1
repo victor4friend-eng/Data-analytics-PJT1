@@ -1,0 +1,67 @@
+>> ### Project Plan  ###<<
+1. Team Information
+- Team Name: Mamur_Team
+- Team Members (Name / Student ID / Role):
+ > Leader Name:                ,  Student ID:           , Group: I24A, Role: Leader, Phone Number: +998 -  
+ > Member Name 1:                ,  Student ID:           , Group: I24B, Role: 
+ > Member Name 2:                ,  Student ID:           , Group: I24C, Role:  
+ > Member Name 3:                ,  Student ID:           , Group: I24D, Role: 
+ > Member Name 4:                ,  Student ID:           , Group: I24E-1, Role: 
+ > Member Name 5:                ,  Student ID:           , Group: I24E-2, Role: 
+
+2. Project Title
+- (Provide a clear and descriptive title for your project.)
+
+3. Dataset Information
+- Dataset Title:
+- Source Website / URL:
+- Description of the dataset:
+- Why this dataset was selected:
+- Size of dataset (rows, columns):
+
+4. Project Objectives
+- What problem are you trying to solve?
+- What questions do you want to answer using data analysis?
+- Expected insights from the dataset.
+
+5. Data Preparation (Using Pandas)
+Describe clearly with code snippets and explanation:
+- Loading the dataset
+- Cleaning data (missing values, duplicates, data types)
+- Data transformation and feature creation
+
+6. Data Analysis Tasks
+Perform meaningful analysis using Pandas operations:
+- Filtering, sorting, grouping
+- Pivot tables or aggregation
+- Answer the questions defined in the objectives section
+- Include code and explanation
+
+7. Key Findings and Insights
+- What did you discover from the data?
+- Business or real-world interpretation of the results
+
+8. Project Timeline (5 Weeks)
+
+| Week                     |        Activities                   |
+|------------------------  |-------------------------------------|
+| Week 1(06.Feb ~ 13.Feb)  | Dataset search and project planning |
+| Week 2(13.Feb ~ 20.Feb)  | Data cleaning and preparation |
+| Week 3(20.Feb ~ 27.Feb)  |  Data analysis and visualization |
+| Week 4(27.Feb ~ 06.Mar)  | Data analysis and visualization |
+| Week 5(06.Feb ~ 13.Feb)  | Report writing and presentation preparation |
+
+9. Outcome of the Project
+- What students learned from this project
+- Skills developed in Pandas data analysis
+
+10. Conclusion
+- Summary of the project and its importance
+
+11. References
+- Dataset source
+- Tutorials, websites, or documentation used
+
+12. Appendix
+- Important code snippets
+- Additional charts or tables
